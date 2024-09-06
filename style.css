@@ -1,0 +1,48 @@
+body{
+    
+    background-color: antiquewhite;
+    margin: 0;
+
+}
+header{
+    background-color: #333;
+    overflow: hidden;
+
+}
+.header-elements{
+    text-align: center;
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+.main{
+    display: flex;
+    margin-top: 90px;
+    margin-left: 90px;
+    justify-content: space-between;
+    
+
+}
+.books{
+    margin-right: 90px;
+    
+
+
+}
+.nameofthebook{
+    text-decoration: none;
+    color:black;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
